@@ -1,0 +1,36 @@
+Great question! Let me explain how to handle the images for your portfolio website:
+
+How to Add Your Images to the Website
+You have two options for adding images to your website:
+
+Option 1: Add Images and I'll Help Link Them
+Create an "images" folder in your project directory if it doesn't already exist
+Place your images in this folder
+Tell me which images you want to use for each section (hero image, services, gallery, team photos, etc.)
+I'll help you update the HTML files to link to your specific images
+Option 2: Replace Images Yourself Following the Naming Convention
+The HTML files are currently set up to look for images with specific names in the "images" folder:
+
+Hero background: hero-bg.jpg
+Page header background: page-header-bg.jpg
+Service images: placeholder-service1.jpg, placeholder-service2.jpg, etc.
+Gallery images: placeholder-gallery1.jpg, placeholder-gallery2.jpg, etc.
+Team photos: placeholder-team1.jpg, placeholder-team2.jpg, etc.
+Before/After images: placeholder-before1.jpg, placeholder-after1.jpg, etc.
+Map image: placeholder-map.jpg
+If you name your images exactly as listed above and place them in the "images" 
+folder, they will automatically appear on the website without needing to change any code.
+
+Image Size Recommendations
+For optimal performance and appearance, I recommend these image sizes:
+
+Hero Image: 1920x1080px
+Service Images: 800x600px
+Gallery Images: 800x600px
+Team Photos: 400x600px
+Before/After Images: 800x600px
+Would You Like Me To:
+Help you create the "images" folder and guide you through adding specific images?
+Update the HTML files to use different image names that match what you already have?
+Make any other adjustments to the website design or content?
+Let me know which approach you prefer, and I'll help you implement it!
